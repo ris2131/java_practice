@@ -77,4 +77,4 @@
 					d) 문자열에 큰따옴표 표기 하고 싶을땐 \" 
 						
 					e) 여러줄 표시는 c 와 똑같게 \n
-#![image](https://user-images.githubusercontent.com/49578522/113694274-7e568a80-970a-11eb-8f2b-65a89f7735c7.png)
+![image](https://user-images.githubusercontent.com/49578522/113694274-7e568a80-970a-11eb-8f2b-65a89f7735c7.png)
